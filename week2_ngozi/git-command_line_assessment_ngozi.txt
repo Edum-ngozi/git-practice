@@ -1,0 +1,6 @@
+5 commands learnt from week 1
+'pwd' stands for "print working directory" this command shows you the current directory you are working on which is working directory. this command together with 'ls' is useful to help you know where you are in the system.
+'ls' this command sees the folder you are working in and list all the files and folder inside it.
+'mkdir'this stands for 'make directory'this command creates a new directory in the current working directory.
+'cp'this command is used to copy files or directories.
+'cd' this command switches one into the exact directory you want.
